@@ -1,0 +1,37 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv
+env/
+venv/
+ENV/
+
+# IDE specific
+.idea/
+.vscode/
+
+# Environment variables
+.env
+
+# OS specific
+.DS_Store
+localized/
+
+# Logs
+*.log
+
+# WAV output files (project-specific)
+*.wav
